@@ -1,0 +1,30 @@
+<mxfile host="www.draw.io" modified="2020-03-02T10:19:26.177Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="ushl_v-zV7NAYhRw_2Uc" version="12.7.9" type="github">
+  <diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">
+    <mxGraphModel dx="2012" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jB2IKIS2CUJutIkacPpY-264" value="Infrastruktur" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="580" width="550" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jB2IKIS2CUJutIkacPpY-265" value="Entwicklung" style="swimlane;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="410" width="550" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jB2IKIS2CUJutIkacPpY-266" value="IT Architektur" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="60" y="70" width="230" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="jB2IKIS2CUJutIkacPpY-267" value="Testing &amp; Deployment" style="swimlane;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="240" width="550" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sdGBqqQ0YjbMmst4qn8J-1" value="Übergreifende Konzepte" style="swimlane;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="70" width="550" height="150" as="geometry">
+            <mxRectangle x="-710" y="70" width="160" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sdGBqqQ0YjbMmst4qn8J-2" value="Vorgehensmodelle" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="70" width="230" height="680" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
